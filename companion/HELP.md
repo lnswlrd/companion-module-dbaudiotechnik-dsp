@@ -15,7 +15,7 @@ The module automatically queries the active matrix size from the device at start
 The DS100/DS110 Soundscape processing engine comprises an audio matrix with scalable I/O options:
 
 | Size | Inputs | Outputs | DS100 sample rates | DS100M sample rates | DS110 sample rates | 
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | **S** – Small | 64 | 24 | 48 kHz, 96 kHz | 48 kHz, 96 kHz | 48 kHz, 96 kHz |
 | **L** – Large | 64 | 64 | 48 kHz, 96 kHz | 48 kHz, 96 kHz | 48 kHz, 96 kHz |
 | **XL** – Extra-large | 128 | 64 | 48 kHz | 48 kHz, 96 kHz | 48 kHz, 96 kHz |
